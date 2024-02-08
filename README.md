@@ -1,5 +1,5 @@
 <!-- Adjusting only the height, maintaining aspect ratio -->
-<img src="https://i.pinimg.com/originals/5e/d2/d9/5ed2d99de7e314e9f39e35a930ee2c40.jpg" alt="MasterHead" height="250" width="900">
+<img src="https://i.pinimg.com/originals/5e/d2/d9/5ed2d99de7e314e9f39e35a930ee2c40.jpg" alt="MasterHead" height="280" width="1000">
 
 <h1 align="center"> <img src="https://media.tenor.com/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif" width="50">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2E73F7&background=1E1E44&random=false&width=350&height=45&lines=Hey!++This+is+SAURAV+GHOSHAL" alt="Typing SVG" /></a>
