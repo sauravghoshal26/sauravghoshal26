@@ -1,5 +1,5 @@
 <!-- Adjusting only the height, maintaining aspect ratio -->
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE2NDkyOTQsIm5iZiI6MTcwMTY0ODk5NCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA0VDAwMTYzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5ODA3YzE5Njg0YmRlNzY4NDZlYTMxYmUyMDRiZjM5NjQ2OTc3ZjRhNTEzZTY5MzZjMDQ3ZmNlODI3ZjBjM2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.akGsQ_TstOITmZGefVlZ89RRnTTBtbkhhbcJUGnPGcA" alt="MasterHead" height="200" width="1000">
+<img src="" alt="MasterHead" height="200" width="1000">
 
 <h1 align="center"> <img src="https://media.tenor.com/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif" width="50">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2E73F7&background=1E1E44&random=false&width=350&height=45&lines=Hey!++This+is+SAURAV+GHOSHAL" alt="Typing SVG" /></a>
@@ -11,11 +11,13 @@
 <br>
 
 
-- 🌱 I’m currently learning **AWS , Tableau & Katlon**
+- 🌱 I’m currently learning **AWS , Tableau & Katlaon Studio**
 
-- 💬 Ask me about **Python, Machine Learning , Open CV**
+- 💬 Ask me about **Python, Machine Learning, data science , Open CV**
 
-- 🚀 Projects { **will be updated very soon!😄** }
+- 🚀 Projects
+- Movie Genre Classification
+- { **will be updated very soon!😄** }
 
 
 <h3 align="left">Languages and Tools:</h3>
