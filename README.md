@@ -11,7 +11,7 @@
 <br>
 
 - 🌱 Upskilling my Knowledge Stack
-  -  Learning **Bits & Bytes Of Computer Networks** , **AWS Cloud Technical Essentials** and much more.
+  -  Learning **Bits & Bytes Of Computer Networks** , **AWS Cloud Technical Essentials** , **Japanese** and much more.
 
 - 💬 Ask me about **C++, Python, Machine Learning, Data Science, Open CV, NLP, iOS development, Fullstack**
 
@@ -21,9 +21,11 @@
   - **Customer Churn Prediction Model**: Achieved an accuracy of around 86% using Random Forest
   - **SMS Classification Model**
   - **Movie Genre Classification**
+  **Under Development , Will be Released Soon. Sit Tight!😁**
   - **Foodgram**: A social platform focused on food, similar to Instagram, built with React, Redux, and other relevant technologies. Also developed an app in Swift for the same.
   - **Foodgram Website**: A responsive full-stack website using Figma for design and HTML, CSS, and other necessary technologies for development.
-  - **A Study on Machine Learning Techniques for Rainfall Prediction in the Indian Agricultural Landscape**: Contributed a research paper on this topic.
+  **Research Work**
+  - **A Study on Machine Learning Techniques for Rainfall Prediction in the Indian Agricultural Landscape**: Contributed a research paper on this to the **Springer** event.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -62,9 +64,6 @@
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/> 
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/> 
