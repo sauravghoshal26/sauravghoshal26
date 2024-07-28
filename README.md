@@ -82,7 +82,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravghoshal26&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravghoshal26&theme=radical&line_height=0" alt="sauravghoshal26" />
+  
 </p>
 <br>
 <p align="center">
