@@ -1,77 +1,179 @@
-<!-- Adjusting only the height, maintaining aspect ratio -->
-<img src="https://i.pinimg.com/originals/5e/d2/d9/5ed2d99de7e314e9f39e35a930ee2c40.jpg" alt="MasterHead" height="280" width="1000">
+# Hey there! 👋 Welcome to my Digital Universe
 
-<h1 align="center"> <img src="https://media.tenor.com/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif" width="50">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2E73F7&background=1E1E44&random=false&width=350&height=45&lines=Hey!++This+is+SAURAV+GHOSHAL" alt="Typing SVG" /></a>
-</h1>
-<h3 align="center">"Tech Explorer 🚀 | B.Tech Scholar in AI/ML 🤖 | AWS Cloud Architect (Badge Holder) ☁️ | Turning Data into Stories | Passionate about Coding Adventures and Future-Forward Tech 🌟"</h3>
-<p align="center">
-<img  align="right" height="200" width="300" alt="Coding"src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SAURAV%20GHOSHAL&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=🚀+Building+AI+Solutions+That+Matter" alt="Typing SVG" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🎯 Currently Obsessed With:
+- 🔥 **Real-time Analytics** with Apache Kafka & AWS
+- 🧠 **Computer Vision** projects using OpenCV & YOLO
+- 📊 **Interactive Dashboards** in Tableau & Power BI
+- 🌱 **Learning Japanese** (because why not! 🇯🇵)
+- ☁️ **Cloud Architecture** patterns on AWS
+
+### 💬 Ask Me About:
+```python
+expertise = {
+    "languages": ["Python", "C++", "SQL", "JavaScript"],
+    "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
+    "cloud_platforms": ["AWS (EC2, S3, Lambda, QuickSight)"],
+    "databases": ["MySQL", "Snowflake"],
+    "visualization": ["Tableau", "Power BI", "Matplotlib"],
+    "specialties": ["Computer Vision", "NLP", "Predictive Analytics"]
+}
+```
+
+<br clear="right"/>
+
+## 🎨 My Digital Playground
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravghoshal26&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&point=1F6FEB" width="100%"/>
+</div>
+
+### 🚀 Project Highlights That I'm Proud Of:
+
+<table>
+<tr>
+<td width="50%">
+
+#### 💰 Cryptocurrency Trade Data Platform
+```yaml
+what: Real-time crypto market intelligence
+tech: [Apache Kafka, AWS QuickSight, Python]
+impact: Automated trading analytics
+status: 🔥 Production Ready
+```
+
+#### 🔍 AI-Powered Web Search
+```yaml
+what: Smart search with auto-report generation
+tech: [SERP API, DeepSeek API, ReportLab]
+impact: Streamlined information retrieval
+status: ⚡ Optimized & Efficient
+```
+
+</td>
+<td width="50%">
+
+#### 🌧️ Rainfall Prediction Model
+```yaml
+what: Agricultural irrigation recommendations
+tech: [Machine Learning, Time Series]
+impact: Published research in Springer
+status: 📚 Research Contribution
+```
+
+#### 📊 Customer Churn Prediction
+```yaml
+what: Business intelligence solution
+tech: [Random Forest, Scikit-learn]
+impact: 86% accuracy achieved
+status: 🎯 High Performance
+```
+
+</td>
+</tr>
+</table>
+
+## 🛠️ My Tech Arsenal
+
+<div align="center">
+
+### 🧠 AI/ML & Data Science
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
-<br>
-
-- 🌱 Upskilling my Knowledge Stack
-  -  Learning **Bits & Bytes Of Computer Networks** , **AWS Cloud Technical Essentials** , **Japanese** and much more.
-
-- 💬 Ask me about **C++, Python, Machine Learning, Data Science, Open CV, NLP, iOS development, Fullstack**
-
-- 🚀 Projects
-  - **Rainfall Prediction Model**: Used for predicting irrigation recommendations
-  - **3D to 2D Floor Plan Conversion**: Using MiDaS model and adding a GUI for better usability
-  - **Customer Churn Prediction Model**: Achieved an accuracy of around 86% using Random Forest
-  - **SMS Classification Model**
-  - **Movie Genre Classification**
-  **Under Development , Will be Released Soon. Sit Tight!😁**
-  - **Foodgram**: A social platform focused on food, similar to Instagram, built with React, Redux, and other relevant technologies. Also developed an app in Swift for the same.
-  - **Foodgram Website**: A responsive full-stack website using Figma for design and HTML, CSS, and other necessary technologies for development.
-  **Research Work**
-  - **A Study on Machine Learning Techniques for Rainfall Prediction in the Indian Agricultural Landscape**: Contributed a research paper on this to the **Springer** event.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VsCode" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
+<p>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/seaborn-%23ffffff.svg?style=for-the-badge&logo=seaborn&logoColor=blue" alt="Seaborn"/>
 </p>
+
+### 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### ☁️ Cloud & Big Data
+<p>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Apache Kafka"/>
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2"/>
+<img src="https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="QuickSight"/>
+</p>
+
+### 📊 Analytics & Visualization
+<p>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Qlik%20Sense-009848?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense"/>
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### 🌐 Web Development
+<p>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+### 🔧 Tools & Development
+<p>
+<img src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+</div>
+
+---
+
+### 🎯 **Skill Proficiency Levels**
+
+<div align="center">
+
+| **Expert Level** 🔥 | **Advanced** ⚡ | **Intermediate** 📈 | **Learning** 🌱 |
+|:---:|:---:|:---:|:---:|
+| Python,C++, SQL | TensorFlow, AWS | Swift | Japanese 🇯🇵 |
+| Machine Learning | Tableau, Power BI | React, Java | Advanced Cloud Architecture |
+| Data Analysis | Apache Kafka | Web Development | Computer Vision |
+
+</div>
 
 <br>
 <h2 align="center">
@@ -84,11 +186,38 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravghoshal26&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
   
 </p>
+
 <br>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sauravghoshal26&theme=radical&line_height=0"/>
-</p>
-<br>
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+  
+| 🎖️ **AWS Certified Solutions Architect** | 📝 **Research Published in Springer** |
+|:---:|:---:|
+| Cloud Architecture & Deployment | ML for Agricultural Landscape |
+
+| 👥 **Led D2C Igniters Club** | 💼 **Data Science Intern** |
+|:---:|:---:|
+| Secured ₹100K funding | Vision Netsoft Pvt Ltd |
+
+</div>
+
+## 🌟 Fun Facts & Random Stuff
+
+<details>
+<summary>🎯 Click to discover more about me!</summary>
+
+- 🎓 **8.96 CGPA** at VIT Bhopal (yeah, I'm that nerd!)
+- 🇯🇵 Learning Japanese because anime taught me it's cool
+- 🌧️ My rainfall prediction model might save farmers someday
+- 🚀 Building a lifestyle platform that'll change how we connect with wellness
+- 🎮 I code better with lo-fi music in the background
+- ☕ Coffee consumption directly correlates with code quality
+- 🚀 Dream: Working on AI that actually helps humanity
+
+</details>
+
 <div>
 <h3 align="center" style="font-size: 14px;"> 🌐 Let's Connect & Collaborate 🤝🏻 </h3>
 
@@ -96,4 +225,24 @@
   &nbsp; <a href="https://twitter.com/sauravghoshal20" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
   &nbsp; <a href="https://www.instagram.com/sauravghoshal20/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
   &nbsp; <a href="https://www.linkedin.com/in/saurav-ghoshal-704b63221/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-  &nbsp; <
+  &nbsp; <a href="mailto:sauravghoshal26@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sauravghoshal26&label=Profile%20Views&color=FF6B6B&style=flat-square" alt="Profile Views" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
+</div>
+
+### 💭 Quote of the Day
+> *"The best way to predict the future is to create it... with data and a lot of coffee!"* ☕
+
+---
+
+<div align="center">
+  <b>Thanks for stopping by! Let's build the future together 🚀</b>
+</div>
